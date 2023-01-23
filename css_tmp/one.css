@@ -27,19 +27,19 @@ body{
 /* small */
 @media(min-width:768px){
     .container{
-        width: 750;
+        width: 750px;
     }
 }
 /* medium */
 @media(min-width:992px){
     .container{
-        width: 970;
+        width: 970px;
     }
 }
 /* large */
 @media(min-width:1200px){
     .container{
-        width: 1170;
+        width: 1170px;
     }
 }
 /*end global rules*/
